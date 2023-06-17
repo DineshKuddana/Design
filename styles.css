@@ -1,0 +1,44 @@
+.red-container{
+    width: 500px;
+    height: 500px;
+    background-color: red;
+    border: 2px solid black;
+    margin:auto;
+}
+.yellow-container{
+    height: 400px;
+    background-color: yellow;
+    margin-top: -30px;
+}
+.arrow{
+    height: 0;
+    width: 0;
+    margin: auto;
+    
+  border-top: 3vw solid yellow;
+  
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  
+}
+
+#circle{
+    width:100px;
+    height:100px;
+    background-color: beige;
+    margin:auto;
+    border-radius:50px;
+}
+
+#circle-text{
+    font-size: 70px;
+    padding-left: 30px;
+}
+
+#para{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 50px;
+    color:red;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
